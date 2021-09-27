@@ -1,0 +1,7 @@
+.video{
+  background-color: white;
+  margin-top: 100px;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-bottom: -40px;
+}
