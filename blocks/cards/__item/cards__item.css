@@ -5,8 +5,5 @@
   margin-right: 100px;
 }
 .cards__item:nth-of-type(3){
-  display: flex;
-  flex-direction: column;
-  width: min-content;
   margin-right: 0;
 }
