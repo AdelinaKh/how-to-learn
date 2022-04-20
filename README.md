@@ -8,8 +8,6 @@
 Используемые языки: HTML, CSS.
 
 
-Ссылка на сайт:
-
-https://adelinakh.github.io/how-to-learn
+Ссылка на сайт: https://adelinakh.github.io/how-to-learn
 
 Статус проекта: планируется добавить переход по ссылкам.
